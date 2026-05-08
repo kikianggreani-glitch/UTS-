@@ -1,7 +1,8 @@
 # UTS Data Mining
+
 # Nama :Kiki Anggreani
-# NIM : 2304020001
-# Rombel : Rombel 1 Pendidikan Matematika 2023
+NIM : 2304020001
+Rombel : Rombel 1 Pendidikan Matematika 2023
 
 Proyek ini bertujuan untuk melakukan prediksi **Wine Quality Classification** menggunakan beberapa metode machine learning klasifikasi. Pada penelitian ini dilakukan perbandingan performa tiga algoritma klasifikasi, yaitu **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, dan **Random Forest** untuk menentukan metode dengan tingkat akurasi terbaik dalam memprediksi variabel `quality` pada data testing.
 
