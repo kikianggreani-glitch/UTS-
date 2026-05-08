@@ -1,13 +1,14 @@
 # UTS Data Mining
 
-# Nama :Kiki Anggreani
+Nama :Kiki Anggreani
 NIM : 2304020001
 Rombel : Rombel 1 Pendidikan Matematika 2023
 
 Proyek ini bertujuan untuk melakukan prediksi **Wine Quality Classification** menggunakan beberapa metode machine learning klasifikasi. Pada penelitian ini dilakukan perbandingan performa tiga algoritma klasifikasi, yaitu **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, dan **Random Forest** untuk menentukan metode dengan tingkat akurasi terbaik dalam memprediksi variabel `quality` pada data testing.
 
 Tahapan yang dilakukan meliputi eksplorasi data, preprocessing, pelatihan model, evaluasi menggunakan cross validation, hyperparameter tuning, hingga prediksi data testing. Berdasarkan hasil evaluasi, metode **Random Forest** memberikan performa dan akurasi terbaik sehingga dipilih sebagai model final untuk prediksi kualitas wine.
----
+
+
 # Langkah Pengerjaan — Metode KNN
 ### 1. Import Library
 Tahap awal dilakukan import library yang dibutuhkan seperti:
